@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyr)
 
 # Directorios
-dir_json <- "ruta_al_archivo_json" # estos JSONs son el output del script "dai_final_ocr.py"
+dir_json <- "ruta_al_archivo_json" # estos JSONs son el output del script "dai_ocr.py" del repositorio 'py_portada_dai_ocr'.
 dir_img <- "ruta_a_las_imagenes"
 
 # Definir umbral
