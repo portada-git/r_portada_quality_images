@@ -1,4 +1,4 @@
-# Evaluación y Selección de Imágenes para Reprocesamiento
+# Evaluación y Selección de Imágenes para Tratamiento
 ## Descripción del Código
 Este script en R se utiliza para evaluar la calidad de imágenes a partir de archivos JSON que contienen puntuaciones de calidad y defectos detectados en cada imagen. A continuación se detalla el proceso llevado a cabo por el script:
 
